@@ -1,5 +1,4 @@
 # my-website
 changes 2020.10.05
 edit on example branch
-update on update-readme branch.
-updated locally
+updates made on main with using rebase
